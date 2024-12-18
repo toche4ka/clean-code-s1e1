@@ -5,23 +5,23 @@ body {
     font-family: Lato, sans-serif;
 }
 
-.aaa {
+.template-matrix {
     width: 500px;
     margin: 0 auto;
     display: block;
     text-align: right;
 }
 
-.aaa img {
+.template-matrix img {
     width: 100%;
 }
 
-.aaa .more-inf {
+.template-matrix .more-inf {
     font-family: fantasy, cursive;
 }
 
 @media (max-width:768px) {
-.aaa { text-align: center;
+.template-matrix { text-align: center;
 }
 }
 
